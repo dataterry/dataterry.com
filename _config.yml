@@ -60,7 +60,10 @@ plugins:
 author:
   name   : "Ben Terry"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Healthcare Data Scientist - Machine-Learning - Data-Driven Decision Making - Data Visualisation"
+  bio    : "Healthcare Data Scientist
+  Machine-Learning 
+  Data-Driven Decision Making 
+  Data Visualisation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
